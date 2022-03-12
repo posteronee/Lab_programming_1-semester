@@ -1,0 +1,3 @@
+/Users/nikitaivanov/Desktop/прога/proga3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nikitaivanov/Desktop/прога/proga3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitaivanov/Desktop/прога/proga3/cmake-build-debug/CMakeFiles/proga3.dir
